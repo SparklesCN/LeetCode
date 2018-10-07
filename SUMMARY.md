@@ -2,5 +2,5 @@
 
 * [README](README.md)
 * [Problems](problems/README.md)
-  * [LeeCode-1 Two Sum](problems/1-two-sum.md)
+  * [LeetCode-1 Two Sum](problems/1-two-sum.md)
 
