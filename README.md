@@ -2,5 +2,5 @@
 
 This GitBook uses to record all the problems.
 
-Especially the strategy & template for same  problems.
+Especially the strategy & template for similar problems.
 
