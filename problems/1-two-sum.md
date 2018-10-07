@@ -18,7 +18,7 @@ Uses a HashMap to record all the key: nums, and value: index
 
 ## Code ##
 
-`public int[] twoSum(int[] nums, int target) {
+<code>public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> hashMap= new HashMap<Integer, Integer>();
         int[] res = new int[2];
         for (int i = 0; i < nums.length; i++) {
@@ -31,4 +31,4 @@ Uses a HashMap to record all the key: nums, and value: index
             hashMap.put(nums[i], i);
         }
         return null;
-    }`
+    }</code>
