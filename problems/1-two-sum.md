@@ -15,9 +15,9 @@ You may assume that each input would have exactly one solution, and you may not 
 ## Strategy ##
 
 Uses a HashMap to record all the key: nums, and value: index
-...
+
 ## Code ##
-'''java
+```java
 public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> hashMap= new HashMap<Integer, Integer>();
         int[] res = new int[2];
@@ -32,4 +32,4 @@ public int[] twoSum(int[] nums, int target) {
         }
         return null;
     }
-'''
+```
